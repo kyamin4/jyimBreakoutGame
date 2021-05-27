@@ -1,0 +1,1 @@
+run="set -e; javac -cp .:./lib/* -d . *.java; java -cp .:./lib/* Main"
